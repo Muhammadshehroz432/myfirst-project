@@ -1,4 +1,4 @@
 # myfirst-project
 this is my first Git Respository  
 <br>
-The aurthor : Muhammad Shehroz
+The aurthor : Muhammad Shehroz shaikh 
